@@ -1,7 +1,8 @@
 # NIFTY ML Analysis 
-LIVE LINK = user id = vishal
+LIVE LINK OF PROJECT
+user id = vishal
 password = navin
-https://stock-ml-platform.onrender.com
+LIVE LINK = https://stock-ml-platform.onrender.com
 
 ## Product overview
 
