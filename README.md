@@ -1,4 +1,7 @@
-# NIFTY ML Analysis
+# NIFTY ML Analysis 
+LIVE LINK = user id = vishal
+password = navin
+https://stock-ml-platform.onrender.com
 
 ## Product overview
 
